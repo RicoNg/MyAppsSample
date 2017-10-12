@@ -1,0 +1,1 @@
+log.console('app 1');
